@@ -2,7 +2,7 @@
 
 ARPG Level Test
 - Move: WASD
-- Jump: blank space
+- Jump: Blank Space
 - Dodge: Left Shift
 - Lock Enemy: E
 - Lock Teleport Point: T
